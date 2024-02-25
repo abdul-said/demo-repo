@@ -5,3 +5,7 @@ Demo for Github intro video
 
 great i am really hungry.
 
+
+## Local development
+
+1. Open index.hmtl in your browser
